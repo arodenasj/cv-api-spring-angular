@@ -3,12 +3,14 @@ package es.insinno.cvsprinangular.Controller;
 
 import es.insinno.cvsprinangular.Entity.Person;
 import es.insinno.cvsprinangular.Repository.PersonRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/person")
 public class PersonController {
 
+    @Autowired
     private final PersonRepository personRepository;
 
     public PersonController(PersonRepository personRepository) {
