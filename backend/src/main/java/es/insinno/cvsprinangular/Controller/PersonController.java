@@ -9,6 +9,7 @@ package es.insinno.cvsprinangular.Controller;
 
     import java.util.Optional;
 
+@CrossOrigin("*")
     @RestController
     @RequestMapping("/api/person")
     public class PersonController {

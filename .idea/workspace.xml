@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddac4ffe-8be3-4450-a912-a385ea553314" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/core.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/services/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/footer/footer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/header/header.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/components/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/app/core/shared/shared.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/cv-angular/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/insinno/cvsprinangular/Controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/insinno/cvsprinangular/CvSprinAngularApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/insinno/cvsprinangular/Entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/insinno/cvsprinangular/Repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/es/insinno/cvsprinangular/CvSprinAngularApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arodenasj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/arodenasj/cv-api-spring-angular.git",
+    "accountId": "58d47bc7-59d1-4002-911c-8d350077b913"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2twQRPguW5UK4d5JTYoEkDUQb3n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddac4ffe-8be3-4450-a912-a385ea553314" name="Changes" comment="" />
+      <created>1741260650244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741260650244</updated>
+      <workItem from="1741260652262" duration="7000" />
+    </task>
+    <servers />
+  </component>
+</project>
